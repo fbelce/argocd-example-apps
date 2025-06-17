@@ -7,4 +7,4 @@ spec:
     spec:
       containers:
         - name: helm-guestbook
-          image: 'gcr.io/google-samples/gb-frontend:v5'
+          image: "swr.cn-east-3.myhuaweicloud.com/kubesre/gcr.io/heptio-images/ks-guestbook-demo:0.2"
